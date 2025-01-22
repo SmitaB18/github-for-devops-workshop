@@ -1,0 +1,17 @@
+git init
+to initialize git empty repository.
+
+git add <file>
+Stage a file for commit.
+
+git add .
+Stage all changes in the current directory.
+
+git commit -m "Your commit message"
+Commit staged changes with a message.
+
+git rm <file>
+Remove a file from the repository.
+
+git mv <old_name> <new_name>
+Rename or move a file
