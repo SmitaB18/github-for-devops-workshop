@@ -15,3 +15,6 @@ Remove a file from the repository.
 
 git mv <old_name> <new_name>
 Rename or move a file
+
+
+this is some new line added
